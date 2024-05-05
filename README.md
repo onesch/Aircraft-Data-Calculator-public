@@ -1,6 +1,6 @@
 # ENG - Flight Planner Calculator
 
-**Flight Planner Calculator** - A program that allows planning flights between two airports and obtaining basic flight parameters for the selected aircraft.
+**Flight Planner Calculator** - A program that allows planning flights between two airports and obtaining basic flight parameters for the selected aircraft. 
 
 ## Example of Work
 ㅤㅤㅤㅤㅤㅤㅤ![Input](images/example_input.png "Input")
