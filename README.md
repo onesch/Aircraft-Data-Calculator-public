@@ -1,6 +1,6 @@
 ## Example of Work
-ㅤㅤㅤㅤㅤㅤㅤ![Input](images/example_input.png "Input")
-ㅤㅤㅤㅤ![Output](images/example_print.png "Output")
+![Input](images/example_input.png "Input")
+![Output](images/example_print.png "Output")
 
 ## Description of Files
 
