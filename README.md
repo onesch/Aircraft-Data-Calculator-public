@@ -1,7 +1,3 @@
-# ENG - Flight Planner Calculator
-
-**Flight Planner Calculator** - A program that allows planning flights between two airports and obtaining basic flight parameters for the selected aircraft. 
-
 ## Example of Work
 ㅤㅤㅤㅤㅤㅤㅤ![Input](images/example_input.png "Input")
 ㅤㅤㅤㅤ![Output](images/example_print.png "Output")
@@ -30,10 +26,6 @@ The closed project uses the `MIT` license.
 The PROGRAM is not intended for pilots and aviation specialists; the code is made for aviation enthusiasts.
 
 #
-
-# RUS - Flight Planner Calculator
-
-**Flight Planner Calculator** - Программа, которая позволяет планировать полеты между двумя аэропортами и получать основные параметры полета для выбранного самолета.
 
 ## Пример работы
 ㅤㅤㅤㅤㅤㅤㅤ![Ввод](images/example_input.png "Ввод")
