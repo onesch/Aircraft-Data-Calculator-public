@@ -2,13 +2,6 @@
 ㅤㅤㅤㅤㅤㅤㅤ![Input](images/example_input.png "Input")
 ㅤㅤㅤㅤ![Output](images/example_print.png "Output")
 
-## Description of Files
-
-- `aircraft.py`: The `Aircraft` class describing the basic parameters of the aircraft.
-- `airport.py`: The `Airport` class for retrieving data about the selected airport.
-- `flight.py`: The `Flight` class performing flight parameter calculations.
-- `main.py`: The main application file that launches the flight planning process.
-
 ## How to View the Code?
 
 This project is private. For additional information, contact @xAvakov via Telegram.
@@ -18,6 +11,8 @@ This project is private. For additional information, contact @xAvakov via Telegr
 If you wish to help improve the code, you can do so by contacting @xAvakov via Telegram.
 
 ## Note
+
+Description of the files and the files themselves are only in a private copy
 
 The code is in the development stage and has inaccuracies in mathematical calculations.
 
@@ -31,13 +26,6 @@ The PROGRAM is not intended for pilots and aviation specialists; the code is mad
 ㅤㅤㅤㅤㅤㅤㅤ![Ввод](images/example_input.png "Ввод")
 ㅤㅤㅤㅤ![Вывод](images/example_print.png "Вывод")
 
-## Описание файлов
-
-- `aircraft.py`: Класс `Aircraft`, описывающий основные параметры самолета.
-- `airport.py`: Класс `Airport`, для получения данных о выбранном аэропорте.
-- `flight.py`: Класс `Flight`, осуществляющий расчет параметров полета.
-- `main.py`: Основной файл приложения, запускающий процесс планирования полета.
-
 ## Как посмотреть код?
 
 Этот проект находится в закрытом доступе, для дополнительной информации связавшись с @xAvakov через Telegram
@@ -47,6 +35,8 @@ The PROGRAM is not intended for pilots and aviation specialists; the code is mad
 Если у вас есть желание помочь улучшить код, вы можете сделать это, связавшись с @xAvakov через Telegram
 
 ## Примечание
+
+Описание файлов и сами файлы только в закрытой копии
 
 Код в стадии разработки и имеет погрешности в математических расчётах.
 
