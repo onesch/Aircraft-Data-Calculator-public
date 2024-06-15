@@ -18,7 +18,7 @@ The code is in the development stage and has inaccuracies in mathematical calcul
 
 The closed project uses the `MIT` license.
 
-The PROGRAM is not intended for pilots and aviation specialists; the code is made for aviation enthusiasts.
+The code is made for aviation enthusiasts.
 
 ## Как посмотреть код?
 
@@ -36,4 +36,4 @@ The PROGRAM is not intended for pilots and aviation specialists; the code is mad
 
 Закртый проект использует лицензию `MIT`.
 
-ПРОГРАММА никак не предназначенна для пилотов и специалистов в области авиации, код сделан для авиационных энтузиастов.
+Код сделан для авиационных энтузиастов.
